@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Test {
 
+	// changes made
 	public static void main(String[] args) {
 
 	// 1. Declare and Initialize objects
