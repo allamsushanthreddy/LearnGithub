@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Test {
 
 	// changes made
+
+	// Making changes in the new brach. Hope everything will go as planned
 	public static void main(String[] args) {
 
 	// 1. Declare and Initialize objects
